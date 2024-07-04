@@ -26,11 +26,12 @@ Welcome to the Real-Time Video Chat Rooms project! This platform aims to provide
 
 ## Getting Started
 
-### Prerequisites
+### Tech Stack
 
-- Node.js (v14 or higher)
-- npm or yarn
+- React.js (FrontEnd)
+- Node.js & Express.js (Backend)
 - MongoDB
+- WebRTC
 
 ### Installation
 
